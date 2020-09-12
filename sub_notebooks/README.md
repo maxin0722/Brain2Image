@@ -1,1 +1,1 @@
-Additional notebooks for reconstaruction of the parts of main pipeline.
+Additional notebooks for the parts reconstruction of the main pipeline.
